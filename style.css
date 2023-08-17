@@ -1,11 +1,27 @@
 .container{
     background-color: pink;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
 }
 
 .smallbox{
     background-color: red;
+    height: 300px;
+    width: 900px;
+    margin: 20px;
 }
 
 .bigbox{
     background-color: blue;
+    height: 500px;
+    width: 900px;
+    margin: 20px;
+}
+
+.container2{
+    background-color: pink;
+    height: 550px;
+    display: flex;
+    flex-direction: row;
 }
